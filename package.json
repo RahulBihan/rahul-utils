@@ -1,6 +1,6 @@
 {
   "name": "@rahulbihan/utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Useful utility functions",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
